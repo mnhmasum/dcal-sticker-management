@@ -1,0 +1,21 @@
+ERROR - 2022-07-16 09:27:27 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':00:00 and created_at <  23:59:59' at line 1
+CRITICAL - 2022-07-16 09:27:27 --> Call to a member function getResult() on bool
+in APPPATH\Controllers\Notes.php on line 123.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->search_by_date()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-07-16 09:28:43 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ':00:00 and created_at <  23:59:59' at line 1
+CRITICAL - 2022-07-16 09:28:43 --> Call to a member function getResult() on bool
+in APPPATH\Controllers\Notes.php on line 124.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->search_by_date()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-07-16 09:29:31 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '00:00:00 and created_at < 2022-07-14 23:59:59' at line 1
+CRITICAL - 2022-07-16 09:29:31 --> Call to a member function getResult() on bool
+in APPPATH\Controllers\Notes.php on line 124.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->search_by_date()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

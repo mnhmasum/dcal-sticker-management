@@ -1,0 +1,162 @@
+CRITICAL - 2022-08-17 09:42:31 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Records.php on line 223.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 09:42:34 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Records.php on line 223.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 09:43:02 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Records.php on line 223.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 09:43:06 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Records.php on line 223.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 09:44:37 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Records.php on line 223.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 09:44:46 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Records.php on line 223.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 09:46:01 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Records.php on line 223.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 09:46:03 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Records.php on line 223.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 09:47:10 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Records.php on line 223.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 09:48:24 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Records.php on line 225.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 09:50:19 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Records.php on line 227.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 09:51:12 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Records.php on line 225.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 09:52:23 --> Call to a member function getRandomName() on null
+in APPPATH\Controllers\Records.php on line 225.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 09:55:26 --> Call to undefined method CodeIgniter\Session\Session::getPost()
+in APPPATH\Controllers\Records.php on line 242.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 09:55:29 --> Call to undefined method CodeIgniter\Session\Session::getPost()
+in APPPATH\Controllers\Records.php on line 242.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 09:56:14 --> Call to undefined method CodeIgniter\Session\Session::getPost()
+in APPPATH\Controllers\Records.php on line 242.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 09:56:41 --> Call to undefined method CodeIgniter\Session\Session::getPost()
+in APPPATH\Controllers\Records.php on line 242.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 10:26:15 --> Call to a member function get() on null
+in APPPATH\Controllers\Records.php on line 35.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 10:26:19 --> Call to a member function get() on null
+in APPPATH\Controllers\Records.php on line 174.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->view_records()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 10:26:27 --> Call to a member function get() on null
+in APPPATH\Controllers\Records.php on line 174.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->view_records()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 10:29:08 --> Object of class CodeIgniter\HTTP\IncomingRequest could not be converted to string
+in APPPATH\Controllers\Records.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 10:29:11 --> Object of class CodeIgniter\HTTP\IncomingRequest could not be converted to string
+in APPPATH\Controllers\Records.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 10:30:48 --> Object of class CodeIgniter\HTTP\IncomingRequest could not be converted to string
+in APPPATH\Controllers\Records.php on line 252.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 10:31:18 --> Object of class CodeIgniter\HTTP\IncomingRequest could not be converted to string
+in APPPATH\Controllers\Records.php on line 255.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 10:38:03 --> Object of class CodeIgniter\HTTP\IncomingRequest could not be converted to string
+in APPPATH\Controllers\Records.php on line 255.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 10:38:14 --> Object of class CodeIgniter\HTTP\IncomingRequest could not be converted to string
+in APPPATH\Controllers\Records.php on line 255.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-08-17 10:38:51 --> Object of class CodeIgniter\HTTP\IncomingRequest could not be converted to string
+in APPPATH\Controllers\Records.php on line 256.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Records->create_record_by_user('22')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

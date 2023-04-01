@@ -1,0 +1,336 @@
+CRITICAL - 2022-09-05 04:40:17 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('login')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 04:40:50 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('login')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 04:40:52 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('login')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 04:40:56 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('login')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-05 04:44:02 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-09-05 04:44:02 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Record.php(31): CodeIgniter\Database\BaseConnection->query('SELECT * FROM users where username=\'test\' and password=\'e10adc3949ba59abbe56e057f20f883e\'')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->login()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-05 04:44:35 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-09-05 04:44:35 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Record.php(31): CodeIgniter\Database\BaseConnection->query('SELECT * FROM users where username=\'test\' and password=\'e10adc3949ba59abbe56e057f20f883e\'')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->login()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-05 04:44:45 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-09-05 04:44:45 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Record.php(31): CodeIgniter\Database\BaseConnection->query('SELECT * FROM users where username=\'masum\' and password=\'e10adc3949ba59abbe56e057f20f883e\'')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->login()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-05 04:45:24 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-09-05 04:45:24 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Record.php(31): CodeIgniter\Database\BaseConnection->query('SELECT * FROM users where username=\'masum\' and password=\'e10adc3949ba59abbe56e057f20f883e\'')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->login()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-05 04:45:36 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-09-05 04:45:36 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Record.php(31): CodeIgniter\Database\BaseConnection->query('SELECT * FROM users where username=\'test\' and password=\'e10adc3949ba59abbe56e057f20f883e\'')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->login()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 04:57:49 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 04:57:51 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 04:58:13 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 04:58:15 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:12:01 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:12:30 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:12:32 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:12:53 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:14:23 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:16:06 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:16:30 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:16:31 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:19:23 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:19:34 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 152.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->delete('73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:19:47 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 152.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->delete('73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:20:13 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 152.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->delete('73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:20:40 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 152.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->delete('73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:20:53 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 152.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->delete('73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:20:58 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:21:28 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 152.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->delete('73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:21:39 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 152.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->delete('73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:21:51 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:23:50 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:24:26 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:24:38 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:24:47 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:32:53 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:36:04 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:36:08 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:36:21 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 133.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->update('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:36:22 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 133.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->update('delete', '73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:36:28 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 133.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->update('delete', '7')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:36:46 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 133.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->update('delete', '7')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:37:38 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '7')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:37:39 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '7')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:37:40 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '7')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:37:45 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '7')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:37:46 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '7')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:38:09 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 122.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->show('delete', '7')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:38:21 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 133.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->update('delete', '7')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:38:42 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 152.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->delete('7')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-05 05:38:47 --> Class 'App\Models\RecordModel' not found
+in APPPATH\Controllers\Record.php on line 152.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Record->delete('73')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()

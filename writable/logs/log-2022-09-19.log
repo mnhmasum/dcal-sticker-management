@@ -1,0 +1,87 @@
+CRITICAL - 2022-09-19 00:35:28 --> The original file is not a valid file.
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 137.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH/Controllers/Records.php(67): CodeIgniter\HTTP\Files\UploadedFile->move('FCPATH/uploads', '1663565728_56a862576cc2fd587e89.jpg')
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Records->save_record()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-19 00:36:56 --> The original file is not a valid file.
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 137.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH/Controllers/Records.php(67): CodeIgniter\HTTP\Files\UploadedFile->move('FCPATH/uploads', '1663565816_84d9c5b0d01004aa13d5.jpg')
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Records->save_record()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-19 03:51:28 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '123-test"","2","1663577489.jpg", "22")' at line 1
+ERROR - 2022-09-19 03:53:11 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '123-test"","2","1663577592.jpg", "22")' at line 1
+ERROR - 2022-09-19 03:54:25 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '123-test"","2","1663577665.jpg", "22")' at line 1
+ERROR - 2022-09-19 04:31:09 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '123-test"","2","1663579869.png", "22")' at line 1
+ERROR - 2022-09-19 04:31:44 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '123-test"","2","1663579905.png", "22")' at line 1
+ERROR - 2022-09-19 04:33:20 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '123-test"","2","1663580001.png", "22")' at line 1
+ERROR - 2022-09-19 04:36:27 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '123-test"",""2"","1663580187.png", ""22"")' at line 1
+ERROR - 2022-09-19 04:37:21 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '123-test"",""2"","1663580242.png", ""22"")' at line 1
+ERROR - 2022-09-19 04:38:30 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '123-test"","2","1663580311.png", "22")' at line 1
+ERROR - 2022-09-19 04:40:04 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '123-test"","2","1663580405.png", "22")' at line 1
+ERROR - 2022-09-19 04:41:07 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '123-test"","2","1663580468.png", "22")' at line 1
+ERROR - 2022-09-19 04:44:52 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '123-test"","2","1663580692.png", "22")' at line 1
+ERROR - 2022-09-19 04:45:31 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '123-test"","2","1663580731.png", "22")' at line 1
+ERROR - 2022-09-19 04:46:08 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '123-test"","2","1663580768.png", "22")' at line 1
+CRITICAL - 2022-09-19 04:50:18 --> The original file is not a valid file.
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 137.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH/Controllers/Record.php(83): CodeIgniter\HTTP\Files\UploadedFile->move('FCPATH/uploads', '1663581018.jpg')
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Record->create()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-19 04:51:35 --> The original file is not a valid file.
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 137.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH/Controllers/Record.php(83): CodeIgniter\HTTP\Files\UploadedFile->move('FCPATH/uploads', '1663581096.jpg')
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Record->create()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-19 04:53:31 --> The original file is not a valid file.
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 137.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH/Controllers/Record.php(83): CodeIgniter\HTTP\Files\UploadedFile->move('FCPATH/uploads', '1663581212.jpg')
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Record->create()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-19 05:06:22 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2"","1663581982.jpg", ""22"")' at line 1
+ERROR - 2022-09-19 05:06:52 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '2"","1663582013.jpg", ""22"")' at line 1
+CRITICAL - 2022-09-19 12:22:29 --> Class "App\Models\RecordModel" not found
+in APPPATH/Controllers/Record.php on line 123.
+ 1 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Record->show('create')
+ 2 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-19 12:27:16 --> You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '"","1663608436.png", "")' at line 1
+CRITICAL - 2022-09-19 13:51:16 --> Class "App\Models\RecordModel" not found
+in APPPATH/Controllers/Record.php on line 123.
+ 1 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Record->show('view', '22')
+ 2 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 3 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-19 16:25:50 --> Unknown column 'fsdff' in 'field list'
+CRITICAL - 2022-09-19 16:43:22 --> The original file is not a valid file.
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 137.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH/Controllers/Records.php(67): CodeIgniter\HTTP\Files\UploadedFile->move('FCPATH/uploads', '1663623802_83f0f8824a0635c1f941.JPG')
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Records->save_record()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Records))
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-09-19 16:55:33 --> The original file is not a valid file.
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 137.
+ 1 SYSTEMPATH/HTTP/Files/UploadedFile.php(137): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidFile()
+ 2 APPPATH/Controllers/Record.php(83): CodeIgniter\HTTP\Files\UploadedFile->move('FCPATH/uploads', '1663624533.')
+ 3 SYSTEMPATH/CodeIgniter.php(896): App\Controllers\Record->create()
+ 4 SYSTEMPATH/CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Record))
+ 5 SYSTEMPATH/CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH/index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-09-19 16:55:40 --> Unknown column 'fsdff' in 'field list'

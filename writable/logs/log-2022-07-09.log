@@ -1,0 +1,850 @@
+ERROR - 2022-07-09 01:51:24 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-07-09 01:51:24 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Login.php(50): CodeIgniter\Database\BaseConnection->query('SELECT * FROM users where username=\'masum\' and password=\'e10adc3949ba59abbe56e057f20f883e\'')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->login_submit()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-07-09 01:57:41 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-07-09 01:57:41 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Login.php(50): CodeIgniter\Database\BaseConnection->query('SELECT * FROM users where username=\'masum\' and password=\'e10adc3949ba59abbe56e057f20f883e\'')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->login_submit()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-07-09 02:00:28 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-07-09 02:00:28 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Login.php(50): CodeIgniter\Database\BaseConnection->query('SELECT * FROM users where username=\'masum\' and password=\'e10adc3949ba59abbe56e057f20f883e\'')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->login_submit()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-07-09 02:01:33 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-07-09 02:01:33 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Login.php(50): CodeIgniter\Database\BaseConnection->query('SELECT * FROM users where username=\'masum\' and password=\'e10adc3949ba59abbe56e057f20f883e\'')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->login_submit()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-07-09 02:07:17 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-07-09 02:07:17 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Login.php(50): CodeIgniter\Database\BaseConnection->query('SELECT * FROM users where username=\'masum\' and password=\'e10adc3949ba59abbe56e057f20f883e\'')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->login_submit()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-07-09 02:09:37 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-07-09 02:09:37 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Login.php(50): CodeIgniter\Database\BaseConnection->query('SELECT * FROM users where username=\'masum\' and password=\'e10adc3949ba59abbe56e057f20f883e\'')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->login_submit()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-07-09 02:11:32 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-07-09 02:11:32 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Login.php(50): CodeIgniter\Database\BaseConnection->query('SELECT * FROM users where username=\'masum\' and password=\'e10adc3949ba59abbe56e057f20f883e\'')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->login_submit()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-07-09 02:12:07 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-07-09 02:12:07 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Login.php(50): CodeIgniter\Database\BaseConnection->query('SELECT * FROM users where username=\'masum\' and password=\'e10adc3949ba59abbe56e057f20f883e\'')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->login_submit()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-07-09 02:12:34 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-07-09 02:12:34 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Login.php(50): CodeIgniter\Database\BaseConnection->query('SELECT * FROM users where username=\'masum\' and password=\'e10adc3949ba59abbe56e057f20f883e\'')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->login_submit()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-07-09 02:16:09 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-07-09 02:16:09 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Login.php(50): CodeIgniter\Database\BaseConnection->query('SELECT * FROM users where username=\'masum\' and password=\'e10adc3949ba59abbe56e057f20f883e\'')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->login_submit()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-07-09 02:16:32 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-07-09 02:16:32 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Login.php(50): CodeIgniter\Database\BaseConnection->query('SELECT * FROM users where username=\'masum\' and password=\'e10adc3949ba59abbe56e057f20f883e\'')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->login_submit()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-07-09 02:17:29 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-07-09 02:17:29 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Login.php(50): CodeIgniter\Database\BaseConnection->query('SELECT * FROM users where username=\'masum\' and password=\'e10adc3949ba59abbe56e057f20f883e\'')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->login_submit()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-07-09 02:28:17 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-07-09 02:28:17 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Login.php(50): CodeIgniter\Database\BaseConnection->query('SELECT * FROM users where username=\'masum\' and password=\'e10adc3949ba59abbe56e057f20f883e\'')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->login_submit()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-07-09 02:29:01 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-07-09 02:29:01 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Login.php(50): CodeIgniter\Database\BaseConnection->query('SELECT * FROM users where username=\'masum\' and password=\'e10adc3949ba59abbe56e057f20f883e\'')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->login_submit()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+ERROR - 2022-07-09 02:29:23 --> Error connecting to the database: No connection could be made because the target machine actively refused it.
+
+CRITICAL - 2022-07-09 02:29:23 --> Unable to connect to the database.
+Main connection [MySQLi]: No connection could be made because the target machine actively refused it.
+
+in SYSTEMPATH\Database\BaseConnection.php on line 416.
+ 1 SYSTEMPATH\Database\BaseConnection.php(586): CodeIgniter\Database\BaseConnection->initialize()
+ 2 APPPATH\Controllers\Login.php(50): CodeIgniter\Database\BaseConnection->query('SELECT * FROM users where username=\'masum\' and password=\'e10adc3949ba59abbe56e057f20f883e\'')
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->login_submit()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 02:32:15 -->  route cannot be found while reverse-routing.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 56.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('ROOTPATH\\public')
+ 2 APPPATH\Controllers\Login.php(71): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->login_submit()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 02:35:48 -->  route cannot be found while reverse-routing.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 56.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('ROOTPATH\\public')
+ 2 APPPATH\Controllers\Login.php(71): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->login_submit()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 02:36:00 -->  route cannot be found while reverse-routing.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 56.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('ROOTPATH\\public')
+ 2 APPPATH\Controllers\Login.php(71): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->login_submit()
+ 4 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 5 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 6 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 03:28:09 --> Call to a member function view() on null
+in APPPATH\Controllers\Notes.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 03:28:11 --> Call to a member function view() on null
+in APPPATH\Controllers\Notes.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 03:28:12 --> Call to a member function view() on null
+in APPPATH\Controllers\Notes.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 03:28:12 --> Call to a member function view() on null
+in APPPATH\Controllers\Notes.php on line 33.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 03:31:51 --> Function name must be a string
+in APPPATH\Controllers\Notes.php on line 24.
+ 1 APPPATH\Controllers\Notes.php(31): App\Controllers\Notes->authentication_check()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 03:31:52 --> Function name must be a string
+in APPPATH\Controllers\Notes.php on line 24.
+ 1 APPPATH\Controllers\Notes.php(31): App\Controllers\Notes->authentication_check()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 03:32:03 --> Invalid argument supplied for foreach()
+in APPPATH\Views\notes\view_notes.php on line 28.
+ 1 APPPATH\Views\notes\view_notes.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argument supplied for foreach()', 'APPPATH\\Views\\notes\\view_notes.php', 28, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\notes\\view_notes.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/view_notes', [], true)
+ 5 APPPATH\Controllers\Notes.php(91): view('notes/view_notes')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->view_notes()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 03:32:35 --> Invalid argument supplied for foreach()
+in APPPATH\Views\notes\view_notes.php on line 28.
+ 1 APPPATH\Views\notes\view_notes.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argument supplied for foreach()', 'APPPATH\\Views\\notes\\view_notes.php', 28, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\notes\\view_notes.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/view_notes', [], true)
+ 5 APPPATH\Controllers\Notes.php(91): view('notes/view_notes')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->view_notes()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 03:32:36 --> Invalid argument supplied for foreach()
+in APPPATH\Views\notes\view_notes.php on line 28.
+ 1 APPPATH\Views\notes\view_notes.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argument supplied for foreach()', 'APPPATH\\Views\\notes\\view_notes.php', 28, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\notes\\view_notes.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/view_notes', [], true)
+ 5 APPPATH\Controllers\Notes.php(91): view('notes/view_notes')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->view_notes()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 03:32:41 --> Invalid argument supplied for foreach()
+in APPPATH\Views\notes\view_notes.php on line 28.
+ 1 APPPATH\Views\notes\view_notes.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argument supplied for foreach()', 'APPPATH\\Views\\notes\\view_notes.php', 28, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\notes\\view_notes.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/view_notes', [], true)
+ 5 APPPATH\Controllers\Notes.php(91): view('notes/view_notes')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->view_notes()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 03:33:21 --> Invalid argument supplied for foreach()
+in APPPATH\Views\notes\view_notes.php on line 28.
+ 1 APPPATH\Views\notes\view_notes.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argument supplied for foreach()', 'APPPATH\\Views\\notes\\view_notes.php', 28, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\notes\\view_notes.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/view_notes', [], true)
+ 5 APPPATH\Controllers\Notes.php(91): view('notes/view_notes')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->view_notes()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 03:33:21 --> Invalid argument supplied for foreach()
+in APPPATH\Views\notes\view_notes.php on line 28.
+ 1 APPPATH\Views\notes\view_notes.php(28): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Invalid argument supplied for foreach()', 'APPPATH\\Views\\notes\\view_notes.php', 28, [])
+ 2 SYSTEMPATH\View\View.php(213): include('APPPATH\\Views\\notes\\view_notes.php')
+ 3 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/view_notes', [], true)
+ 5 APPPATH\Controllers\Notes.php(91): view('notes/view_notes')
+ 6 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->view_notes()
+ 7 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 8 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 9 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:04:48 --> Call to a member function view() on null
+in APPPATH\Views\notes\create_note.php on line 18.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/create_note', [], true)
+ 4 APPPATH\Controllers\Notes.php(33): view('notes/create_note')
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:04:49 --> Call to a member function view() on null
+in APPPATH\Views\notes\create_note.php on line 18.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/create_note', [], true)
+ 4 APPPATH\Controllers\Notes.php(33): view('notes/create_note')
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:05:20 --> Invalid file: Login/login.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Login/login.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Login/login', [], true)
+ 3 APPPATH\Controllers\Notes.php(33): view('Login/login')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:05:21 --> Invalid file: Login/login.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Login/login.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Login/login', [], true)
+ 3 APPPATH\Controllers\Notes.php(33): view('Login/login')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:05:26 --> Invalid file: Login/login.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Login/login.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Login/login', [], true)
+ 3 APPPATH\Controllers\Notes.php(33): view('Login/login')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:05:44 --> Invalid file: Login/login.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Login/login.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Login/login', [], true)
+ 3 APPPATH\Controllers\Notes.php(33): view('Login/login')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:05:46 --> Invalid file: Login/login.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('Login/login.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('Login/login', [], true)
+ 3 APPPATH\Controllers\Notes.php(33): view('Login/login')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:07:58 --> Invalid file: note/create_note.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('note/create_note.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('note/create_note', [], true)
+ 3 APPPATH\Controllers\Notes.php(33): view('note/create_note')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:08:01 --> Invalid file: note/create_note.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('note/create_note.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('note/create_note', [], true)
+ 3 APPPATH\Controllers\Notes.php(33): view('note/create_note')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:08:28 --> Invalid file: note/create_note.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('note/create_note.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('note/create_note', [], true)
+ 3 APPPATH\Controllers\Notes.php(33): view('note/create_note')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:08:29 --> Invalid file: note/create_note.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('note/create_note.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('note/create_note', [], true)
+ 3 APPPATH\Controllers\Notes.php(33): view('note/create_note')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:08:36 --> Invalid file: note/create_note.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('note/create_note.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('note/create_note', [], true)
+ 3 APPPATH\Controllers\Notes.php(33): view('note/create_note')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:09:16 --> Invalid file: note/create_note.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('note/create_note.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('note/create_note', [], true)
+ 3 APPPATH\Controllers\Notes.php(33): view('note/create_note')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:09:17 --> Invalid file: note/create_note.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('note/create_note.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('note/create_note', [], true)
+ 3 APPPATH\Controllers\Notes.php(33): view('note/create_note')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:09:23 --> Invalid file: note/create_note.php
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 33.
+ 1 SYSTEMPATH\View\View.php(201): CodeIgniter\Exceptions\FrameworkException::forInvalidFile('note/create_note.php')
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('note/create_note', [], true)
+ 3 APPPATH\Controllers\Notes.php(33): view('note/create_note')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:09:59 --> syntax error, unexpected '?>'
+in APPPATH\Views\notes\create_note.php on line 56.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/create_note', [], true)
+ 3 APPPATH\Controllers\Notes.php(33): view('notes/create_note')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:10:00 --> syntax error, unexpected '?>'
+in APPPATH\Views\notes\create_note.php on line 56.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/create_note', [], true)
+ 3 APPPATH\Controllers\Notes.php(33): view('notes/create_note')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:10:15 --> syntax error, unexpected '?>'
+in APPPATH\Views\notes\create_note.php on line 55.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/create_note', [], true)
+ 3 APPPATH\Controllers\Notes.php(33): view('notes/create_note')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:10:15 --> syntax error, unexpected '?>'
+in APPPATH\Views\notes\create_note.php on line 55.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/create_note', [], true)
+ 3 APPPATH\Controllers\Notes.php(33): view('notes/create_note')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:10:23 --> syntax error, unexpected '?>'
+in APPPATH\Views\notes\create_note.php on line 55.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/create_note', [], true)
+ 3 APPPATH\Controllers\Notes.php(33): view('notes/create_note')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:10:23 --> syntax error, unexpected '?>'
+in APPPATH\Views\notes\create_note.php on line 55.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/create_note', [], true)
+ 3 APPPATH\Controllers\Notes.php(33): view('notes/create_note')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:10:33 --> syntax error, unexpected '?>'
+in APPPATH\Views\notes\create_note.php on line 55.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/create_note', [], true)
+ 3 APPPATH\Controllers\Notes.php(33): view('notes/create_note')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:11:36 --> Call to undefined function form_open()
+in APPPATH\Views\notes\create_note.php on line 24.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/create_note', [], true)
+ 4 APPPATH\Controllers\Notes.php(33): view('notes/create_note')
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:11:37 --> Call to undefined function form_open()
+in APPPATH\Views\notes\create_note.php on line 24.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/create_note', [], true)
+ 4 APPPATH\Controllers\Notes.php(33): view('notes/create_note')
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:12:37 --> Call to undefined function form_open()
+in APPPATH\Views\notes\create_note.php on line 9.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/create_note', [], true)
+ 4 APPPATH\Controllers\Notes.php(33): view('notes/create_note')
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:15:00 --> Call to undefined function set_value()
+in APPPATH\Views\notes\create_note.php on line 17.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/create_note', [], true)
+ 4 APPPATH\Controllers\Notes.php(33): view('notes/create_note')
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:15:01 --> Call to undefined function set_value()
+in APPPATH\Views\notes\create_note.php on line 17.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/create_note', [], true)
+ 4 APPPATH\Controllers\Notes.php(33): view('notes/create_note')
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:15:22 --> Call to undefined function set_value()
+in APPPATH\Views\notes\create_note.php on line 18.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/create_note', [], true)
+ 4 APPPATH\Controllers\Notes.php(33): view('notes/create_note')
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:16:32 --> Use of undefined constant nav - assumed 'nav' (this will throw an Error in a future version of PHP)
+in APPPATH\Controllers\Notes.php on line 33.
+ 1 APPPATH\Controllers\Notes.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefined constant nav - assumed \'nav\' (this will throw an Error in a future version of PHP)', 'APPPATH\\Controllers\\Notes.php', 33, [])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:16:33 --> Use of undefined constant nav - assumed 'nav' (this will throw an Error in a future version of PHP)
+in APPPATH\Controllers\Notes.php on line 33.
+ 1 APPPATH\Controllers\Notes.php(33): CodeIgniter\Debug\Exceptions->errorHandler(2, 'Use of undefined constant nav - assumed \'nav\' (this will throw an Error in a future version of PHP)', 'APPPATH\\Controllers\\Notes.php', 33, [])
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:48:12 --> Function name must be a string
+in APPPATH\Controllers\Notes.php on line 24.
+ 1 APPPATH\Controllers\Notes.php(32): App\Controllers\Notes->authentication_check()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:48:14 --> Function name must be a string
+in APPPATH\Controllers\Notes.php on line 24.
+ 1 APPPATH\Controllers\Notes.php(32): App\Controllers\Notes->authentication_check()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->create_note()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:49:38 --> Call to a member function destroy() on null
+in APPPATH\Controllers\Login.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->logout()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:50:20 --> Call to a member function destroy() on null
+in APPPATH\Controllers\Login.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->logout()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:50:55 --> Call to a member function destroy() on null
+in APPPATH\Controllers\Login.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->logout()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:50:56 --> Call to a member function destroy() on null
+in APPPATH\Controllers\Login.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->logout()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:50:56 --> Call to a member function destroy() on null
+in APPPATH\Controllers\Login.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->logout()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:50:56 --> Call to a member function destroy() on null
+in APPPATH\Controllers\Login.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->logout()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:51:14 --> Call to a member function destroy() on null
+in APPPATH\Controllers\Login.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->logout()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:51:33 --> Call to a member function destroy() on null
+in APPPATH\Controllers\Login.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->logout()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:51:34 --> Call to a member function destroy() on null
+in APPPATH\Controllers\Login.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->logout()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:52:16 --> Call to a member function destroy() on null
+in APPPATH\Controllers\Login.php on line 39.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Login->logout()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Login))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:56:33 --> Function name must be a string
+in APPPATH\Controllers\Notes.php on line 24.
+ 1 APPPATH\Controllers\Notes.php(84): App\Controllers\Notes->authentication_check()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->view_notes()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:58:06 --> Function name must be a string
+in APPPATH\Controllers\Notes.php on line 24.
+ 1 APPPATH\Controllers\Notes.php(84): App\Controllers\Notes->authentication_check()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->view_notes()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:59:02 --> Function name must be a string
+in APPPATH\Controllers\Notes.php on line 24.
+ 1 APPPATH\Controllers\Notes.php(85): App\Controllers\Notes->authentication_check()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->view_notes()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:59:03 --> Function name must be a string
+in APPPATH\Controllers\Notes.php on line 24.
+ 1 APPPATH\Controllers\Notes.php(85): App\Controllers\Notes->authentication_check()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->view_notes()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:59:04 --> Function name must be a string
+in APPPATH\Controllers\Notes.php on line 24.
+ 1 APPPATH\Controllers\Notes.php(85): App\Controllers\Notes->authentication_check()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->view_notes()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:59:11 --> Function name must be a string
+in APPPATH\Controllers\Notes.php on line 24.
+ 1 APPPATH\Controllers\Notes.php(85): App\Controllers\Notes->authentication_check()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->view_notes()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 04:59:27 --> Function name must be a string
+in APPPATH\Controllers\Notes.php on line 25.
+ 1 APPPATH\Controllers\Notes.php(85): App\Controllers\Notes->authentication_check()
+ 2 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->view_notes()
+ 3 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 4 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 5 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 05:06:07 --> syntax error, unexpected '$this' (T_VARIABLE)
+in APPPATH\Controllers\Notes.php on line 24.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Notes.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Notes')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Notes')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Notes')
+ 5 SYSTEMPATH\CodeIgniter.php(846): class_exists('\\App\\Controllers\\Notes', true)
+ 6 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 05:06:09 --> syntax error, unexpected '$this' (T_VARIABLE)
+in APPPATH\Controllers\Notes.php on line 24.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Notes.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Notes')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Notes')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Notes')
+ 5 SYSTEMPATH\CodeIgniter.php(846): class_exists('\\App\\Controllers\\Notes', true)
+ 6 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 08:44:44 --> Call to a member function getFlashdata() on null
+in APPPATH\Views\notes\view_notes.php on line 9.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/view_notes', [], true)
+ 4 APPPATH\Controllers\Notes.php(94): view('notes/view_notes', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->view_notes()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 08:46:54 --> Call to a member function getFlashdata() on null
+in APPPATH\Views\notes\view_notes.php on line 9.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/view_notes', [], true)
+ 4 APPPATH\Controllers\Notes.php(94): view('notes/view_notes', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->view_notes()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 08:47:25 --> Call to a member function getFlashdata() on null
+in APPPATH\Views\notes\view_notes.php on line 9.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/view_notes', [], true)
+ 4 APPPATH\Controllers\Notes.php(94): view('notes/view_notes', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->view_notes()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 08:47:28 --> Call to a member function getFlashdata() on null
+in APPPATH\Views\notes\view_notes.php on line 9.
+ 1 SYSTEMPATH\View\View.php(213): include()
+ 2 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/view_notes', [], true)
+ 4 APPPATH\Controllers\Notes.php(94): view('notes/view_notes', [...])
+ 5 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->view_notes()
+ 6 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 08:54:59 --> syntax error, unexpected '<', expecting end of file
+in APPPATH\Views\notes\view_notes.php on line 9.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/view_notes', [], true)
+ 3 APPPATH\Controllers\Notes.php(94): view('notes/view_notes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->view_notes()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 08:55:27 --> syntax error, unexpected '<', expecting end of file
+in APPPATH\Views\notes\view_notes.php on line 9.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/view_notes', [], true)
+ 3 APPPATH\Controllers\Notes.php(94): view('notes/view_notes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->view_notes()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 08:57:35 --> syntax error, unexpected '<', expecting end of file
+in APPPATH\Views\notes\view_notes.php on line 9.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 2 SYSTEMPATH\Common.php(1135): CodeIgniter\View\View->render('notes/view_notes', [], true)
+ 3 APPPATH\Controllers\Notes.php(95): view('notes/view_notes', [...])
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->view_notes()
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 09:13:51 --> syntax error, unexpected '}'
+in APPPATH\Controllers\Notes.php on line 58.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(261): CodeIgniter\Autoloader\Autoloader->includeFile('APPPATH\\Controllers\\Notes.php')
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(239): CodeIgniter\Autoloader\Autoloader->loadInNamespace('App\\Controllers\\Notes')
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass('App\\Controllers\\Notes')
+ 4 [internal function]: spl_autoload_call('App\\Controllers\\Notes')
+ 5 SYSTEMPATH\CodeIgniter.php(846): class_exists('\\App\\Controllers\\Notes', true)
+ 6 SYSTEMPATH\CodeIgniter.php(453): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 8 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 09:23:50 --> Too few arguments to function App\Controllers\Notes::delete_note(), 0 passed in D:\xampp\htdocs\ci4\system\CodeIgniter.php on line 896 and exactly 1 expected
+in APPPATH\Controllers\Notes.php on line 100.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->delete_note()
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 09:25:37 --> Call to a member function database() on null
+in APPPATH\Controllers\Notes.php on line 103.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->delete_note('20')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 09:25:44 --> Call to a member function database() on null
+in APPPATH\Controllers\Notes.php on line 103.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->delete_note('10')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 09:26:00 --> Call to a member function query() on null
+in APPPATH\Controllers\Notes.php on line 105.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->delete_note('10')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 09:26:23 --> Call to a member function query() on null
+in APPPATH\Controllers\Notes.php on line 105.
+ 1 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->delete_note('20')
+ 2 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 3 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 4 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 09:26:39 -->  route cannot be found while reverse-routing.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 56.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('D:\\xampp\\htdocs\\ci4')
+ 2 SYSTEMPATH\Common.php(863): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Notes.php(111): redirect('/notes')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->delete_note('20')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2022-07-09 09:26:59 -->  route cannot be found while reverse-routing.
+in SYSTEMPATH\HTTP\RedirectResponse.php on line 56.
+ 1 SYSTEMPATH\HTTP\RedirectResponse.php(56): CodeIgniter\HTTP\Exceptions\HTTPException::forInvalidRedirectRoute('D:\\xampp\\htdocs\\ci4')
+ 2 SYSTEMPATH\Common.php(863): CodeIgniter\HTTP\RedirectResponse->route(false)
+ 3 APPPATH\Controllers\Notes.php(111): redirect('/notes')
+ 4 SYSTEMPATH\CodeIgniter.php(896): App\Controllers\Notes->delete_note('20')
+ 5 SYSTEMPATH\CodeIgniter.php(466): CodeIgniter\CodeIgniter->runController(Object(App\Controllers\Notes))
+ 6 SYSTEMPATH\CodeIgniter.php(349): CodeIgniter\CodeIgniter->handleRequest(null, Object(Config\Cache), false)
+ 7 FCPATH\index.php(55): CodeIgniter\CodeIgniter->run()
